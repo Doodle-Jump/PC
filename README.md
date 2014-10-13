@@ -1,4 +1,4 @@
 PC
 ==
 
-Doodle-jump on Windows
+Doodle-jump on Windows based on VS2012.
