@@ -1,0 +1,61 @@
+﻿生成启动时间为 2013/8/15 17:47:09。
+     1>项目“E:\cpp\doodle-jump\doodle-jump\doodle-jump.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\doodle-jump.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         D:\visual studio 2012\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\doodle-jump.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\visual studio 2012\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\doodle-jump.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "doodle-jump.cpp" main.cpp
+         doodle-jump.cpp
+         main.cpp
+     1>main.cpp(32): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(35): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(40): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(41): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(42): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(135): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual studio 2012\VC\include\string.h(110) : 参见“strcpy”的声明
+     1>main.cpp(148): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual studio 2012\VC\include\stdio.h(218) : 参见“fopen”的声明
+     1>main.cpp(150): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual studio 2012\VC\include\stdio.h(237) : 参见“fscanf”的声明
+     1>main.cpp(154): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual studio 2012\VC\include\stdio.h(218) : 参见“fopen”的声明
+     1>main.cpp(393): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual studio 2012\VC\include\string.h(110) : 参见“strcpy”的声明
+     1>main.cpp(456): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual studio 2012\VC\include\string.h(110) : 参见“strcpy”的声明
+     1>main.cpp(470): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual studio 2012\VC\include\string.h(110) : 参见“strcpy”的声明
+     1>main.cpp(498): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual studio 2012\VC\include\string.h(110) : 参见“strcpy”的声明
+     1>main.cpp(515): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>main.cpp(518): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>main.cpp(526): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+     1>main.cpp(539): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(541): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(616): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(618): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(620): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(647): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(649): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(651): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+       Link:
+         D:\visual studio 2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\cpp\doodle-jump\Release\doodle-jump.exe" /INCREMENTAL:NO /NOLOGO hge.lib hgehelp.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:libc.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\cpp\doodle-jump\Release\doodle-jump.pdb" /SUBSYSTEM:WINDOWS,"5.01" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\cpp\doodle-jump\Release\doodle-jump.lib" /MACHINE:X86 /SAFESEH /SAFESEH:NO "Release\doodle-jump.obj"
+         Release\main.obj
+         Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         doodle-jump.vcxproj -> E:\cpp\doodle-jump\Release\doodle-jump.exe
+       FinalizeBuildStatus:
+         正在删除文件“Release\doodle-jump.unsuccessfulbuild”。
+         正在对“Release\doodle-jump.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\cpp\doodle-jump\doodle-jump\doodle-jump.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:32.30

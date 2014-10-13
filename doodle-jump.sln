@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "doodle-jump", "doodle-jump\doodle-jump.vcxproj", "{5E76529B-5BC8-459C-B4D4-14F93E38E5A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E76529B-5BC8-459C-B4D4-14F93E38E5A1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5E76529B-5BC8-459C-B4D4-14F93E38E5A1}.Debug|Win32.Build.0 = Debug|Win32
+		{5E76529B-5BC8-459C-B4D4-14F93E38E5A1}.Release|Win32.ActiveCfg = Release|Win32
+		{5E76529B-5BC8-459C-B4D4-14F93E38E5A1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
