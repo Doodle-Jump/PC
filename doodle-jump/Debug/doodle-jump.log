@@ -1,0 +1,54 @@
+﻿生成启动时间为 2014/9/18 11:20:58。
+     1>项目“E:\cpp\vs2012\doodle-jump\doodle-jump\doodle-jump.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\doodle-jump.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\VS2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\doodle-jump.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "doodle-jump.cpp" main.cpp
+         main.cpp
+     1>e:\cpp\vs2012\doodle-jump\doodle-jump\main.cpp(32): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\cpp\vs2012\doodle-jump\doodle-jump\main.cpp(33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\cpp\vs2012\doodle-jump\doodle-jump\main.cpp(34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\cpp\vs2012\doodle-jump\doodle-jump\main.cpp(35): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\cpp\vs2012\doodle-jump\doodle-jump\main.cpp(39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\cpp\vs2012\doodle-jump\doodle-jump\main.cpp(40): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\cpp\vs2012\doodle-jump\doodle-jump\main.cpp(41): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\cpp\vs2012\doodle-jump\doodle-jump\main.cpp(42): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\cpp\vs2012\doodle-jump\doodle-jump\main.cpp(135): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2012\vc\include\string.h(110) : 参见“strcpy”的声明
+     1>e:\cpp\vs2012\doodle-jump\doodle-jump\main.cpp(148): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2012\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>e:\cpp\vs2012\doodle-jump\doodle-jump\main.cpp(150): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2012\vc\include\stdio.h(237) : 参见“fscanf”的声明
+     1>e:\cpp\vs2012\doodle-jump\doodle-jump\main.cpp(154): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2012\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>e:\cpp\vs2012\doodle-jump\doodle-jump\main.cpp(393): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2012\vc\include\string.h(110) : 参见“strcpy”的声明
+     1>e:\cpp\vs2012\doodle-jump\doodle-jump\main.cpp(456): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2012\vc\include\string.h(110) : 参见“strcpy”的声明
+     1>e:\cpp\vs2012\doodle-jump\doodle-jump\main.cpp(470): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2012\vc\include\string.h(110) : 参见“strcpy”的声明
+     1>e:\cpp\vs2012\doodle-jump\doodle-jump\main.cpp(498): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2012\vc\include\string.h(110) : 参见“strcpy”的声明
+     1>e:\cpp\vs2012\doodle-jump\doodle-jump\main.cpp(515): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\cpp\vs2012\doodle-jump\doodle-jump\main.cpp(518): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\cpp\vs2012\doodle-jump\doodle-jump\main.cpp(526): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\cpp\vs2012\doodle-jump\doodle-jump\main.cpp(539): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>e:\cpp\vs2012\doodle-jump\doodle-jump\main.cpp(541): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>e:\cpp\vs2012\doodle-jump\doodle-jump\main.cpp(616): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>e:\cpp\vs2012\doodle-jump\doodle-jump\main.cpp(618): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>e:\cpp\vs2012\doodle-jump\doodle-jump\main.cpp(620): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>e:\cpp\vs2012\doodle-jump\doodle-jump\main.cpp(647): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>e:\cpp\vs2012\doodle-jump\doodle-jump\main.cpp(649): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>e:\cpp\vs2012\doodle-jump\doodle-jump\main.cpp(651): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+         doodle-jump.cpp
+         正在生成代码...
+       Link:
+         D:\VS2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\cpp\vs2012\doodle-jump\Debug\doodle-jump.exe" /INCREMENTAL /NOLOGO hge.lib hgehelp.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:libc.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\cpp\vs2012\doodle-jump\Debug\doodle-jump.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\cpp\vs2012\doodle-jump\Debug\doodle-jump.lib" /MACHINE:X86 "Debug\doodle-jump.obj"
+         Debug\main.obj
+         Debug\stdafx.obj
+         doodle-jump.vcxproj -> E:\cpp\vs2012\doodle-jump\Debug\doodle-jump.exe
+     1>已完成生成项目“E:\cpp\vs2012\doodle-jump\doodle-jump\doodle-jump.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.87
